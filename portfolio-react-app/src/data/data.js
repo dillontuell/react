@@ -1,32 +1,32 @@
-import WorkIm from "../assets/projects/workImg.jpeg";
-import RealEst from "../assets/projects/realestate.jpg";
+import Shopping from "../assets/projects/shopping.jpg";
+import Cosmos from "../assets/projects/cosmos.jpg";
 
 export const data = [
   {
     id: 1,
-    name: "React JS Application",
-    image: WorkIm,
+    name: "Shopping Application",
+    image: Shopping,
     github: "",
     live: "",
   },
   {
     id: 2,
-    name: "React JS Application",
-    image: RealEst,
+    name: "Space Parallax Application",
+    image: Cosmos,
     github: "",
     live: "",
   },
   {
     id: 3,
     name: "React JS Application",
-    image: WorkIm,
+    image: Shopping,
     github: "",
     live: "",
   },
   {
     id: 4,
     name: "React JS Application",
-    image: RealEst,
+    image: Cosmos,
     github: "",
     live: "",
   },
