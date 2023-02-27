@@ -6,15 +6,17 @@ export const data = [
     id: 1,
     name: "Shopping Application",
     image: Shopping,
-    github: "",
-    live: "",
+    github:
+      "https://github.com/dillontuell/react/tree/main/react-shopping-cart",
+    live: "https://dillonsshack.netlify.app/",
   },
   {
     id: 2,
     name: "Space Parallax Application",
     image: Cosmos,
-    github: "",
-    live: "",
+    github:
+      "https://github.com/dillontuell/react/tree/main/space-parallax-scrolling",
+    live: "https://universeexplorer.netlify.app/",
   },
   {
     id: 3,
