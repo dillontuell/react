@@ -1,5 +1,6 @@
 import Shopping from "../assets/projects/shopping.jpg";
 import Cosmos from "../assets/projects/cosmos.jpg";
+import Budget from "../assets/projects/budget.jpg";
 
 export const data = [
   {
@@ -20,16 +21,9 @@ export const data = [
   },
   {
     id: 3,
-    name: "React JS Application",
-    image: Shopping,
-    github: "",
-    live: "",
-  },
-  {
-    id: 4,
-    name: "React JS Application",
-    image: Cosmos,
-    github: "",
-    live: "",
+    name: "Budget and Expense Application",
+    image: Budget,
+    github: "https://github.com/dillontuell/react/tree/main/react-budget-app",
+    live: "https://dillontuellbudget.netlify.app/",
   },
 ];
